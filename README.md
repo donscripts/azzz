@@ -1,7 +1,7 @@
 # azzz > compr-ncompr
 Manipulação de arquivos compremidos
 
-# *azzz.exe* ou *azzz.py*:
+# *azzz.py*:
 ele tem as mesmas funcionalidades dos arquivos *ncompr.exe* e *compr.exe*, porém, um pouco melhoradas.
 E, para funcionamento correto, baixe os arquivos: *rar.exe*, *unrar,exe*, *tar.exe*
 
