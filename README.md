@@ -32,15 +32,17 @@ ele tem as mesmas funcionalidades dos arquivos *ncompr.exe* e *compr.exe*, poré
 8. .gz => no caso seria a leitura
 
 # Funcionamento:
-
+## listar:
 para listar o conteudo de um arquivo compremido, basta apenas:
 azzz.exe nome do arquivo
 azzz.exe tar.tar
 
+## criar:
 para criar um arquivo compremido, basta:
 azzz.exe c "arquivos para serem adicionados ao compremido" "nome do arquivo compremido"
 azzz.exe c pasta1 pasta2 pasta3 arquivo.rar
 
+## extrair:
 para extrair um arquivo compremido, basta:
 azzz.exe e "arquivo compremido" "pasta a ser criada com o conteudo dele"
 azzz.exe zip.zip pastaZ
